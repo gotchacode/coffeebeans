@@ -1,4 +1,4 @@
-# Coffeebeans
+Coffeebeans
 
 A simple yet powerful app to manage employees.
 
